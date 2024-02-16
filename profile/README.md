@@ -3,7 +3,7 @@
 **repo name format**
 
 - `<channel>-<year>`
-- `<task-action>`
+- `<task>-<action>`
 
 **branch name format**
 <br/>
